@@ -1,0 +1,24 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "A gulp boilerplate for Fyusion projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Dronca <rauldronk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-polyfill": "6.26.0",
+    "babel-preset-env": "1.7.0",
+    "browser-sync": "2.24.6",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "5.0.0",
+    "gulp-babel": "7.0.1",
+    "gulp-csso": "3.0.1",
+    "gulp-sass": "4.0.1",
+    "gulp-sourcemaps": "2.6.4",
+    "gulp-uglify": "3.0.1"
+  }
+}

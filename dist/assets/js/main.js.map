@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["test","console"],"mappings":"aAAA,IAAMA,KAAQ,WAAdC,QAAMD,IAAQA","file":"main.js","sourcesContent":["const test =  'Works ✌️';\n\nconsole.log(test);"]}
