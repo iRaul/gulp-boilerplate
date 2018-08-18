@@ -13,8 +13,15 @@ $ npm install
 ```
 
 ### Serve
+
 To serve in the browser
 
 ```sh
 $ gulp
 ```
+
+### To Do
+
+- [ ] PostCSS Version
+- [ ] Add Sass Lint
+- [ ] Add ES Lint
